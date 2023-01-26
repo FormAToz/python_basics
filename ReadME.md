@@ -83,3 +83,11 @@
 
 
 - **chapter11** - обработка исключений
+
+
+- **chapter12** - продвинутые итерации
+  ```shell
+  # установка модуля requests
+  py -3 -m  pip install requests
+
+  ```
